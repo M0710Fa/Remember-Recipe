@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">remember-recipe</string>
+    <string name="recipeList_name">レシピリスト</string>
 </resources>
